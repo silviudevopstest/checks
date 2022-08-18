@@ -21,7 +21,3 @@ jobs:
 - job: check3
   steps:
   - script: echo check3
-- job: check4
-  steps:
-  - script: echo check4
-  - script: cat non-existing-file.txt
