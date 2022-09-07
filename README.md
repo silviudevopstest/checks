@@ -1,5 +1,3 @@
 # checks - silviudevopstest
 
-run, baby, run!
-
-great!
+PR18
